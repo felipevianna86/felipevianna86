@@ -28,4 +28,8 @@ Hi, I'm Felipe Vianna, a curious and I like to study.
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=felipevianna86&show_icons=true&theme=gotham" alt="felipevianna86" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=felipevianna86&show_icons=true&theme=gotham" alt="felipevianna86" />
+  
+ <br>
+ 
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipevianna86&layout=compact&count_private=true) 
