@@ -14,7 +14,7 @@ Hi, I'm Felipe Vianna, a curious and I like to study.
 
 - 💻 I’m currently working at Softplan (Full Stack Software Developer);
 -  🕵 Always learning; 
-- 📍 Brazil, RN;
+- 📍 Brazil, PR;
 
 **Technologies that ​​I work/study:**  
 
