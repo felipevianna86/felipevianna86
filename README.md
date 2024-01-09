@@ -7,14 +7,14 @@
 
 <br />
 
-Hi, I'm Felipe Vianna, a curious and I like to study.
+Hi, I'm Felipe Vianna, I like to study and for now I'm looking foward to a big move in my career.
 
    
 **Talking about me:**
 
-- 💻 I’m currently working at Softplan (Full Stack Software Developer);
+- 💻 I’m currently working at Softplan (Java Developer);
 -  🕵 Always learning; 
-- 📍 Brazil, PR;
+- 📍 Brazil, RN;
 
 **Technologies that ​​I work/study:**  
 
