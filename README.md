@@ -24,4 +24,4 @@ Hi, I'm Felipe Vianna, I like to study and for now I'm looking foward to a big m
   
  <br>
  
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipevianna86&layout=compact&count_private=true) 
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipevianna86&hide=javascript,html,css,batchfile&layout=donut-vertical) 
