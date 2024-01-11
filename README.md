@@ -28,7 +28,7 @@ Hi, I'm Felipe Vianna, I like to study and for now I'm looking foward to a big m
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=felipevianna86&show_icons=true&theme=gotham" alt="felipevianna86" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=felipevianna86&show_icons=true&theme=blue-green" alt="felipevianna86" />
   
  <br>
  
