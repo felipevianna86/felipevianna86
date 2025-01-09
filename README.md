@@ -4,9 +4,9 @@ Hi, I'm Felipe Vianna, I like to study and for now I'm looking foward to a big m
    
 **Talking about me:**
 
-- 💻 I’m currently working at Softplan (Java Developer);
+- 💻 I’m currently working at Capgemini Portugal (Java Developer Senior);
 -  🕵 Always learning; 
-- 📍 Brazil, RN;
+- 📍 Brazil, PR;
 
 **Technologies that ​​I work/study:**  
 
